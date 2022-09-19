@@ -13,3 +13,6 @@ https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&id=i883851521F1747D7B
 //Link for Assignment-1
   https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FAssignment_1&action=view&mode=dashboard&subView=model000001833fb0b607_00000000
 
+//Link for Empathy map
+
+  https://app.mural.co/t/trafficandcapacityanalytics6273/m/trafficandcapacityanalytics6273/1662792591582/f57886ca73f5a095287b4267e8e0f49d60662bd5?sender=u731415a1e9ead5521f313965
